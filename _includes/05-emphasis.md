@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+:sparkles:
+*just* want to _try_ some **stuff** and __see__ how it goes
